@@ -1,4 +1,5 @@
 /src/.docker
 /src/services/FacebookStrategy.js
 /src/routes/FacebookRoutes.js
+node_modules
 .env
